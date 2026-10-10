@@ -1,0 +1,9 @@
+/* NUEVA CLASE: Aplícala dentro de ItemList para ordenar las tarjetas */
+.grillaItems {
+  display: grid;
+  /* Crea exactamente 3 columnas del mismo tamaño, y pasa a 1 columna en pantallas chicas */
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); 
+  gap: 20px;
+  margin-top: 20px;
+  justify-items: center; /* Centra cada tarjeta dentro de su celda */
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tequeños Tradicionales (6 uds)",
+    "categoria": "picada",
+    "precio": 4500,
+    "stock": 30,
+    "imagen": "https://i.ibb.co/yccRhpcw/teque-os.jpg",
+    "descripcion": "Deditos de masa crujiente rellenosa de abundante queso blanco semi-duro derretido.",
+    "popular": true,
+    "tiempoPreparacion": "10-15 min",
+    "extras": [
+      { "nombre": "Salsa de Ajo", "precio": 400 },
+      { "nombre": "Guasacaca", "precio": 400 }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Arepa Reina Pepiada",
+    "categoria": "comida_rapida",
+    "precio": 6200,
+    "stock": 20,
+    "imagen": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=500&q=80",
+    "descripcion": "Masa de maíz asada rellena de pollo desmechado, mayonesa suave y aguacate fresco.",
+    "popular": true,
+    "tiempoPreparacion": "15 min",
+    "extras": [
+      { "nombre": "Queso Telita extra", "precio": 800 },
+      { "nombre": "Masa frita", "precio": 0 }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Pabellón Criollo",
+    "categoria": "plato_principal",
+    "precio": 9800,
+    "stock": 15,
+    "imagen": "https://i.ibb.co/Y7pm0yyY/pabellon-criollo.jpg",
+    "descripcion": "El plato nacional: carne desmechada, arroz blanco, caraotas negras con queso y tajadas de plátano frito.",
+    "popular": true,
+    "tiempoPreparacion": "20 min",
+    "extras": [
+      { "nombre": "Huevo frito extra", "precio": 600 },
+      { "nombre": "Aguacate", "precio": 700 }
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Patacón de Carne Desmechada",
+    "categoria": "comida_rapida",
+    "precio": 7500,
+    "stock": 12,
+    "imagen": "https://i.ibb.co/6Q63hXj/patacon-carne-mechada.jpg",
+    "descripcion": "Dos tapas de plátano verde frito rellenitas de carne desmechada, queso rallado, ensalada y salsas.",
+    "popular": false,
+    "tiempoPreparacion": "15-20 min",
+    "extras": [
+      { "nombre": "Cambiar a Plátano Maduro", "precio": 0 },
+      { "nombre": "Queso Mano extra", "precio": 900 }
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Pepito Mixto Especial",
+    "categoria": "comida_rapida",
+    "precio": 8900,
+    "stock": 10,
+    "imagen": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=500&q=80",
+    "descripcion": "Sándwich en pan baguette con lomito de res, pollo, queso rallado, papas hilo, maíz y variedad de salsas.",
+    "popular": false,
+    "tiempoPreparacion": "20 min",
+    "extras": [
+      { "nombre": "Tocineta / Béisbol", "precio": 800 },
+      { "nombre": "Salsa de Maíz extra", "precio": 400 }
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Papelón con Limón (500ml)",
+    "categoria": "bebidas",
+    "precio": 2200,
+    "stock": 40,
+    "imagen": "https://i.ibb.co/KpGCp8nd/papelon-limon.jpg",
+    "descripcion": "Bebida refrescante artesanal a base de panela/papelón natural y jugo de limón recién exprimido.",
+    "popular": true,
+    "tiempoPreparacion": "5 min",
+    "extras": []
+  },
+  {
+    "id": 7,
+    "nombre": "Chicha Venezolana Tradicional (500ml)",
+    "categoria": "bebidas",
+    "precio": 3100,
+    "stock": 25,
+    "imagen": "https://i.ibb.co/ccKdBFtz/chicha-de-arroz.webp",
+    "descripcion": "Bebida cremosa dulce a base de arroz y leche, servida con bastante leche condensada y canela.",
+    "popular": true,
+    "tiempoPreparacion": "5 min",
+    "extras": [
+      { "nombre": "Extra Leche Condensada", "precio": 500 },
+      { "nombre": "Chips de Chocolate", "precio": 400 }
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Comida Saludable",
+    "categoria": "comida_saludable",
+    "precio": 1,
+    "stock": 0,
+    "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=500&q=80",
+    "descripcion": "Todavía en etapa de planeación.",
+    "popular": false,
+    "tiempoPreparacion": "0 min",
+    "extras": []
+  },
+  {
+    "id": 9,
+    "nombre": "Cachapa",
+    "categoria": "comida_rapida",
+    "precio": 7000,
+    "stock": 10,
+    "imagen": "https://i.ibb.co/67qrD3B7/cachapas.jpg",
+    "descripcion": "Cachapa tradicional rellena de queso y carne.",
+    "popular": false,
+    "tiempoPreparacion": "10 min",
+    "extras": []
+  }
+]

@@ -1,0 +1,9 @@
+.contenedorEquipos {
+  max-width: 600px; /* Lo agrandamos un poco para que entren bien 3 tarjetas */
+  margin: 5px auto;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  text-align: center; /* Centra el título H1 */
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "foto": "../public/images/CEO.jpg",
+        "cargo": "El CEO / Resolver-Todo",
+        "mensaje":"<a href='https://wa.me/123456789' target='_blank' rel='noreferrer'> 💬 WhatsApp (Para reclamos o halagos)</a>"
+    },
+    {
+        "id": 2,
+        "foto": "../public/images/Chef.jpg", 
+        "cargo":"El Chef Master",
+        "mensaje":"Solo habla el idioma de las salsas y el queso derretido"
+    },
+    {
+        "id": 3,
+        "foto": "../public/images/Catador.jpg",
+        "cargo": "El Catador Oficial de Tequeños",
+        "mensaje": "🧀 Revisa la calidad de cada mordisco (Y no comparte)"
+    }
+]

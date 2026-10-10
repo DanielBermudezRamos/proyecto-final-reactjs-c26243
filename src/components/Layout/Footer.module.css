@@ -1,0 +1,57 @@
+.footer {
+  background-color: #58111A; /* Vinotinto */
+  color: #f8f9fa;
+  padding: 32px 16px 16px;
+  margin-top: 40px;
+  font-family: system-ui, -apple-system, sans-serif;
+  border-top: 4px solid #e65100;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 24px;
+  text-align: left;
+}
+
+.brandSection {
+  flex: 1;
+  min-width: 250px;
+}
+
+.title {
+  margin: 0 0 8px 0;
+  font-size: 1.4rem;
+  color: #ffffff;
+}
+
+.slogan {
+  font-style: italic;
+  color: #f1c40f; /* Amarillo suave */
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.teamSection {
+  flex: 1.5;
+  min-width: 280px;
+}
+
+.teamSection h4 {
+  margin: 0 0 12px 0;
+  color: #f39c12; /* Naranja/Dorado */
+  font-size: 1.1rem;
+}
+
+.bottomBar {
+  max-width: 1000px;
+  margin: 24px auto 0;
+  padding-top: 16px;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  text-align: center;
+  font-size: 0.8rem;
+  color: #d1d5db;
+}

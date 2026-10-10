@@ -1,0 +1,11 @@
+/* Este es el contenedor blanco grande que se ve en tu imagen */
+.contenedorProductos {
+  max-width: 90%; /* Lo agrandamos un poco para que entren bien 3 tarjetas */
+  margin: 40px auto;
+  padding: 30px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  font-family: sans-serif;
+  background-color: #ffffff;
+  text-align: center; /* Centra el título H1 */
+}
